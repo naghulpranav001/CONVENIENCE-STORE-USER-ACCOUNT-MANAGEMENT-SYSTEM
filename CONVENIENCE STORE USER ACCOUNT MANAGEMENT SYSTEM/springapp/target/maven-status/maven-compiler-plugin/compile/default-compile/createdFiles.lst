@@ -1,0 +1,15 @@
+com\examly\springapp\repository\UserRoleMappingRepo.class
+com\examly\springapp\service\AccountStatusLogServiceImpl.class
+com\examly\springapp\service\UserRoleMappingServiceImpl.class
+com\examly\springapp\service\RoleServiceImpl.class
+com\examly\springapp\service\UserAccountServiceImpl.class
+com\examly\springapp\service\ProfileServiceImpl.class
+com\examly\springapp\service\AccountStatusLogService.class
+com\examly\springapp\exception\GlobalExceptionHandler.class
+com\examly\springapp\controller\UserRoleMappingController.class
+com\examly\springapp\repository\RoleRepo.class
+com\examly\springapp\model\UserRoleMapping.class
+com\examly\springapp\service\UserRoleMappingService.class
+com\examly\springapp\service\UserAccountService.class
+com\examly\springapp\repository\AccountStatusLogRepo.class
+com\examly\springapp\service\ProfileService.class
